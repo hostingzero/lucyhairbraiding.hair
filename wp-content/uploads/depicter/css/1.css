@@ -1,0 +1,62 @@
+
+.depicter-revert .depicter-1-element-2{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-2 .depicter-symbol-container{
+	fill:#000;
+}
+.depicter-1-element-3 .depicter-bullet-item{
+	background-color:rgba(0,0,0,0.5);
+	border-radius:5px 5px 5px 5px ;
+	width:9px;
+	height:9px;
+}
+.depicter-1-element-3 .depicter-bullet-item.depicter-bullet-active{
+	background-color:rgba(0,0,0,1);
+}
+.depicter-1-element-3 .depicter-bullets-wrapper{
+	gap:5px;
+	flex-direction:row;
+}
+.depicter-revert .depicter-1-element-4{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-4 .depicter-symbol-container{
+	fill:#000;
+}
+.depicter-revert .depicter-1-section-29 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-10 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-25 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-27 .depicter-section-background{
+	background-color:#FFF;
+}
+
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-1-element-33{
+	border-radius:30px;
+}
+.depicter-revert .depicter-1-element-16{
+	border-radius:50px;
+}
+.depicter-revert .depicter-1-element-31{
+	border-radius:30px;
+}
+.depicter-revert .depicter-1-element-32{
+	border-radius:30px;
+}
+
+}
